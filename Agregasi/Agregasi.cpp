@@ -6,3 +6,5 @@ using namespace std;
 
 int main() { //agregasi
     ibu* varIbu = new ibu("dini");
+    ibu* varIbu2 = new ibu("novi");
+    
